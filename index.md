@@ -180,6 +180,8 @@ $$
 
 Adaptive gain scheduling modifies \( K_p, K_d \) dynamically to prevent overshoot.
 
+![Alt text](/zavier-page/assets/images/pid.png)
+
 ---
 
 ### **6.3 Kalman Filter Prediction**
@@ -302,6 +304,7 @@ where
 \((u, v)\) = pixel coordinates,  
 and \(Z\) = depth (ultrasonic).
 
+![Alt text](/zavier-page/assets/images/trash.webp)
 ### **7.6 Detection Loop (Pseudocode)**
 
 ```python
