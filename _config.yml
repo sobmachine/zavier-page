@@ -1,0 +1,35 @@
+title: Zavier
+description: >
+  A smart dustbin that can catch objects, without any clutter, while being cost-effective for both domestic and industrial settings.
+baseurl: "/zavier" # if hosting at root of a GitHub Pages site
+url: "https://sobmachine.github.io" # replace with your GitHub Pages URL
+github_username: sobmachine
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+# Optional visual tweaks
+color_scheme: dark # or remove for light mode
+search_enabled: true
+
+# Add GitHub link in the top-right corner
+aux_links:
+  "View on GitHub":
+    - "https://github.com/sobmachine/zavier"
+
+# Optional: show it in a new tab
+aux_links_new_tab: true
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+
+# Build exclusions (cleaner builds)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
