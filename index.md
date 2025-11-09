@@ -256,6 +256,7 @@ It identifies waste categories — *plastic*, *paper*, *metal*, *organic* — in
 4. **Post-Processing:** confidence filter (>0.75), NMS (IoU < 0.4)  
 5. **Tracking:** Kalman-based temporal consistency  
 
+![Alt text](/zavier-page/assets/images/yolo5.png)
 ---
 
 ### **7.3 Dataset and Augmentation**
