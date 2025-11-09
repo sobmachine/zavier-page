@@ -16,9 +16,9 @@ color_scheme: dark # or remove for light mode
 search_enabled: true
 
 # Add GitHub link in the top-right corner
-aux_links:
-  "View on GitHub":
-    - "https://github.com/sobmachine/zavier"
+# aux_links:
+#  "View on GitHub":
+#    - "https://github.com/sobmachine/zavier"
 
 # Optional: show it in a new tab
 aux_links_new_tab: true
