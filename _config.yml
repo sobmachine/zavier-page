@@ -1,7 +1,7 @@
 title: Zavier
 description: >
   A smart dustbin that can catch objects, without any clutter, while being cost-effective for both domestic and industrial settings.
-baseurl: "/zavier" # if hosting at root of a GitHub Pages site
+baseurl: "/zavier-page" # if hosting at root of a GitHub Pages site
 url: "https://sobmachine.github.io" # replace with your GitHub Pages URL
 github_username: sobmachine
 
