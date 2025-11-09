@@ -351,7 +351,7 @@ while idle:
 
 ---
 
-9. Results and Discussion
+## **9. Results and Discussion**
 
 | **Metric**                   | **Value**      |
 |------------------------------|----------------|
