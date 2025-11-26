@@ -20,7 +20,12 @@ This paper presents the complete design, architecture, mathematical modeling, an
 **Keywords:**  
 Autonomous Robotics, Waste Management, PID Control, YOLO, Embedded Systems, ESP8266, RV1103, Kalman Filter, STM32F411CEU6
 
-![text](/zavier-page/assets/images/ZavierFull.mp4)
+<!-- START RESPONSIVE VIDEO EMBED -->
+<div class="video-container">
+<!-- Replace the 'src' URL with your actual YouTube or Vimeo embed URL -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XU9gw7tjWoc?si=dskfBNrZ3mctxLjB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<!-- END RESPONSIVE VIDEO EMBED --> 
 
 ---
 
