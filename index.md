@@ -23,6 +23,28 @@ Autonomous Robotics, Waste Management, PID Control, YOLO, Embedded Systems, ESP8
 <!-- START RESPONSIVE VIDEO EMBED -->
 <div class="video-container">
 <!-- Replace the 'src' URL with your actual YouTube or Vimeo embed URL -->
+<style>
+.video-container {
+    /* Set up the container for responsive resizing */
+    position: relative;
+    height: 0;
+    /* This defines the 16:9 aspect ratio based on the container's width */
+    padding-bottom: 56.25%; 
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.video-container iframe {
+    /* Make the iframe absolutely cover the entire container area */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0; /* Ensures the iframe has no border */
+}
+</style>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XU9gw7tjWoc?si=dskfBNrZ3mctxLjB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <!-- END RESPONSIVE VIDEO EMBED --> 
