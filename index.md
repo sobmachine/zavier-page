@@ -20,6 +20,8 @@ This paper presents the complete design, architecture, mathematical modeling, an
 **Keywords:**  
 Autonomous Robotics, Waste Management, PID Control, YOLO, Embedded Systems, ESP8266, RV1103, Kalman Filter, STM32F411CEU6
 
+![text](/zavier-page/assets/images/ZavierFull.mp4)
+
 ---
 
 ## **1. Introduction**
@@ -305,7 +307,7 @@ where
 \((u, v)\) = pixel coordinates,  
 and \(Z\) = depth (ultrasonic).
 
-![Alt text](/zavier-page/assets/images/trash.webp)
+![text](/zavier-page/assets/images/trash.webp)
 ### **7.6 Detection Loop (Pseudocode)**
 
 ```python
